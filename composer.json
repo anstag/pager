@@ -6,7 +6,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Anstag\\": "src/"
+      "Anstag\\Pager": "src/Pager"
     }
   }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Pager;
+namespace Anstag\Pager;
 
 class ItemsRange extends View
 {
